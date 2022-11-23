@@ -245,7 +245,7 @@ Frag nach ob Dir ein acloudguru account gesponsored wird.
 * 5 x 45 Minuten
 
 ![](img/GEAR.png) Aufgaben:
- 
+
 * Installiere docker [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 * run ```docker pull hello-world```
 * run ```docker run --rm hello-world```
