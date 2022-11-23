@@ -16,10 +16,17 @@ The prestudy guide is a markdown [here](weeks/22_KW44_to_47/prestudies.md).
 
 There is a bash script in the same folder so the guide can be made into a pdf.
 
+## Generelles Training
+
+- Offiziell 9:00 - 16:30 Training
+- Offiziell 16:30 - 17:30 Self Study Phase
+- Weekly Reflectionszum Training - Checkout am Freitag 5 Minuten einplanen
+
 ## Calendar Week 48 - Training Week 1 (Johannes)
 
 - [todo](weeks/22_KW48)
-- Do Franzi
+- Do Franzi 14:00 - 16:30
+- Brights Trip von Mo bis Mittwoch und Do - Fr im Urlaub, Henrietee wird nicht im Haus sein.
 
 ## Calendar Week 49 - Training Week 2 (Oliver)
 
@@ -34,6 +41,7 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 
 - [todo](weeks/22_KW51)
 - Di Franzi
+- Fr 12:30 Schluss
 
 ## Calendar Week 1 - Training Week 5 (Johannes)
 
@@ -57,7 +65,7 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 ## Calendar Week 5 - Training Week 9 (Johannes)
 
 - [todo](weeks/23_KW05)
-- onsite
+- onsite in Berlin
 
 ## Calendar Week 6 - Training Week 10 (Johannes)
 
@@ -71,5 +79,5 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 ## Calendar Week 8 - Training Week 12 (Johannes)
 
 - [todo](weeks/23_KW08)
-- onsite
+- onsite in Dresden
 - final project
