@@ -67,6 +67,10 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 - [todo](weeks/23_KW05)
 - onsite in Berlin
 
+- 30.01.-03.02.23 bei T-Systems MMS in Berlin
+- - Adresse: Winterfeldtstraße 21, 10781 Berlin
+- - Was: Onsite Projektwoche
+
 ## Calendar Week 6 - Training Week 10 (Johannes)
 
 - [todo](weeks/23_KW06)
@@ -81,3 +85,7 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 - [todo](weeks/23_KW08)
 - onsite in Dresden
 - final project
+
+- 20.-24.02.23 bei T-Systems MMS in Dresden
+- - Adresse: Adresse: Riesaer Str. 5, 01129 Dresden
+- - Was: finales Projekt & Graduation
