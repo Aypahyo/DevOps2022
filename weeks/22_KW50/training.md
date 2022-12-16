@@ -49,7 +49,8 @@
 
 9:00 - 9:30 Chek-In
 9:30 - 10:30 Asessment 1
-10:30 - 12:30 Jenkins
+10:30 - 11:00 Pause
+11:00 - 12:30 Jenkins
 12:30 - 13:30 Mittagspause
 13:30 - 16:30 Jenkins
 16:30 - 17:30 Freestudy Zeit
