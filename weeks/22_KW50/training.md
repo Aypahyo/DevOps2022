@@ -48,12 +48,8 @@
 ## FR
 
 9:00 - 9:30 Chek-In
-9:30 - 9:45 Markdown
-9:45 - 10:00 Pause
-10:00 - 10:30 Bash Beispiele
-10:15 - 12:30 Docker Engine, Images, Container, Netzwerk
+9:30 - 10:30 Asessment 1
+10:30 - 12:30 Jenkins
 12:30 - 13:30 Mittagspause
-13:30 - 15:00 Docker Engine, Images, Container, Netzwerk
-15:00 - 16:00 Dockerfiles
-16:00 - 16:30 Prüfungsvorbereitung
+13:30 - 16:30 Jenkins
 16:30 - 17:30 Freestudy Zeit
