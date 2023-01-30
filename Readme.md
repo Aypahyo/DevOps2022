@@ -54,7 +54,8 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 ## Calendar Week 3 - Training Week 7 (Oliver)
 
 - [todo](weeks/23_KW03)
-- Di, Do, Body Talk
+- Di, Do, Body Talk - Block von 16:00 - 20:00
+- 17.Januar, 19.Januar - 16:00 - 20:00
 
 ## Calendar Week 4 - Training Week 8 (Johannes)
 
@@ -68,8 +69,8 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 - onsite in Berlin
 
 - 30.01.-03.02.23 bei T-Systems MMS in Berlin
-- - Adresse: Winterfeldtstraße 21, 10781 Berlin
-- - Was: Onsite Projektwoche
+- Adresse: Winterfeldtstraße 21, 10781 Berlin
+- Was: Onsite Projektwoche
 
 ## Calendar Week 6 - Training Week 10 (Johannes)
 
@@ -87,5 +88,5 @@ There is a bash script in the same folder so the guide can be made into a pdf.
 - final project
 
 - 20.-24.02.23 bei T-Systems MMS in Dresden
-- - Adresse: Adresse: Riesaer Str. 5, 01129 Dresden
-- - Was: finales Projekt & Graduation
+- Adresse: Adresse: Riesaer Str. 5, 01129 Dresden
+- Was: finales Projekt & Graduation
